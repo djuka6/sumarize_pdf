@@ -1,0 +1,1 @@
+The project is a Django-based web application that integrates the ChatGPT 3.5-turbo API to automatically summarize PDF documents. Users can upload a PDF, and the app processes the text, sending it to the ChatGPT API for summarization. The summarized content is then presented to the user, offering a quick and efficient way to grasp the main points of lengthy documents.
